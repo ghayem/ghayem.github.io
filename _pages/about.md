@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<style type="text/css"> body{ font-size: 11pt; } </style>
+<style type="text/css"> body{ font-size: 12pt; } </style>
 
 I am a researcher with the [Multispeech team](https://team.inria.fr/multispeech/){:target="_blank" rel="noopener"} at Inria Nancy - Grand Est, France. My current research focuses on robust audio-visual speech processing.
 
