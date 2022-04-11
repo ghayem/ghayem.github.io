@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+markdown                 : kramdown
 locale                   : "en-US"
 title                    : "Mostafa SADEGHI"
 title_separator          : "-"
