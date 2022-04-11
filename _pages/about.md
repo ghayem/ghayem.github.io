@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in the [Multispeech team](https://team.inria.fr/multispeech/){:target="_blank" rel="noopener"} at Inria Nancy - Grand Est, France. My current research focuses on robust audio-visual speech processing.
+<style type="text/css"> body{ font-size: 11pt; } </style>
+
+I am a researcher with the [Multispeech team](https://team.inria.fr/multispeech/){:target="_blank" rel="noopener"} at Inria Nancy - Grand Est, France. My current research focuses on robust audio-visual speech processing.
 
 From August 2018 to October 2020, I was a postdoctoral researcher in the [Perception team](https://team.inria.fr/perception/){:target="_blank" rel="noopener"} (now, [RobotLearn team](https://team.inria.fr/robotlearn/)){:target="_blank" rel="noopener"} at Inria Grenoble Rhône-Alpes, France, working with [Radu Horaud](https://team.inria.fr/perception/team-members/radu-patrice-horaud/){:target="_blank" rel="noopener"} and [Xavier Alameda-Pineda](http://xavirema.eu/){:target="_blank" rel="noopener"}. 
 
