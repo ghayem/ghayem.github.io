@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Miscelaneos"
-permalink: /miscelaneos/
+title: "Miscellaneous"
+permalink: /miscellaneous/
 author_profile: true
 ---
 
@@ -15,7 +15,7 @@ Here you can find some interesting resources on deep learning and neural network
 * [A very nice browser-based platform for training and visualizing deep networks](https://cs.stanford.edu/people/karpathy/convnetjs/){:target="_blank" rel="noopener"}
 * [A neural network playground!](https://playground.tensorflow.org/){:target="_blank" rel="noopener"}
 * [Visualizing and understanding what different layers in a CNN are learning!](http://yosinski.com/deepvis){:target="_blank" rel="noopener"}
-* [A very nice and well-explained tutorial on Variational Auto-encoders (VAEs)!](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf){:target="_blank" rel="noopener"} + Take also a look at [this one](https://sergioskar.github.io/Autoencoder/){:target="_blank" rel="noopener"} and [this one](http://szhao.me/2017/06/10/a-tutorial-on-mmd-variational-autoencoders.html){:target="_blank" rel="noopener"}
+* [A very nice and well-explained tutorial on Variational Auto-encoders (VAEs)!](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf){:target="_blank" rel="noopener"} + Take also a look at [this one](https://szhao.me/a-tutorial-on-mmd-variational-autoencoders/){:target="_blank" rel="noopener"}
 * [Machine Learning Notebooks](https://github.com/ageron/handson-ml2){:target="_blank" rel="noopener"}
 * [Blog posts on deep generative models](https://jmtomczak.github.io/blog.html){:target="_blank" rel="noopener"}
 * [Convolution Visualizer](https://ezyang.github.io/convolution-visualizer/index.html){:target="_blank" rel="noopener"}
