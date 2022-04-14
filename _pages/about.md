@@ -14,7 +14,8 @@ I am a researcher with the [Multispeech team](https://team.inria.fr/multispeech/
 
 From August 2018 to October 2020, I was a postdoctoral researcher with the [Perception team](https://team.inria.fr/perception/){:target="_blank" rel="noopener"} (now, [RobotLearn team](https://team.inria.fr/robotlearn/){:target="_blank" rel="noopener"}) at Inria Grenoble Rhône-Alpes, France, working with [Radu Horaud](https://team.inria.fr/perception/team-members/radu-patrice-horaud/){:target="_blank" rel="noopener"} and [Xavier Alameda-Pineda](http://xavirema.eu/){:target="_blank" rel="noopener"}. 
 
-## Research Interests
+Research Interests
+------
 
 * Latent variable generative models, e.g., variational autoencoders (VAEs)
 * Unsupervised audio-visual speech enhancement using generative models
