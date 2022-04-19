@@ -44,7 +44,7 @@ Some useful books:
 
 * [Information Theory, Inference and Learning Algorithms](http://www.inference.org.uk/itila/book.html){:target="_blank" rel="noopener"} (by D. MacKay)
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf){:target="_blank" rel="noopener"} (by S. Boyd and L. Vandenberghe)
-* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf){:target="_blank" rel="noopener"}(a must-have handbook!)
+* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf){:target="_blank" rel="noopener"} (a must-have handbook!)
 
 Some helpful notes:
 
