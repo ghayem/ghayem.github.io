@@ -40,10 +40,16 @@ Different strategies for approximating intractable normalizing constants, and KL
 * [Non-Gaussian likelihoods for Gaussian Processes](http://gpss.cc/gpss15/talks/gpss_non_gaussian-2.pdf){:target="_blank" rel="noopener"}
 * [Approximating the KL divergence between two densities using gamma-divergence](https://www.researchgate.net/publication/339663864_On_estimating_the_Kullback-Leibler_divergence_between_two_densities_with_computationally_intractable_normalization_factors){:target="_blank" rel="noopener"}
 
-An excellent book: [Information Theory, Inference and Learning Algorithms](http://www.inference.org.uk/itila/book.html){:target="_blank" rel="noopener"}
+Some useful books:
 
-[You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw){:target="_blank" rel="noopener"}
+* [Information Theory, Inference and Learning Algorithms](http://www.inference.org.uk/itila/book.html){:target="_blank" rel="noopener"} (by D. MacKay)
+* [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf){:target="_blank" rel="noopener"} (by S. Boyd and L. Vandenberghe)
+* [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf){:target="_blank" rel="noopener"}(a must-have handbook!)
 
-[How to write the introduction for a research paper](https://sites.google.com/site/msaadeghii23/How%20to%20write%20the%20introduction.pdf?attredirects=0&d=1){:target="_blank" rel="noopener"} (by Kate Saenko)
+Some helpful notes:
 
-[Coding Interview University](https://github.com/jwasham/coding-interview-university){:target="_blank" rel="noopener"}
+* [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw){:target="_blank" rel="noopener"}
+
+* [How to write the introduction for a research paper](https://sites.google.com/site/msaadeghii23/How%20to%20write%20the%20introduction.pdf?attredirects=0&d=1){:target="_blank" rel="noopener"} (by Kate Saenko)
+
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university){:target="_blank" rel="noopener"}
