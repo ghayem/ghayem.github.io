@@ -11,11 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Theses (in Persian)
-
-* [PhD Thesis](https://msaadeghii.github.io/files/PhDThesis.pdf){:target="_blank" rel="noopener"} 
-
-* [M.Sc. Thesis](https://msaadeghii.github.io/files/MSc_Thesis.pdf){:target="_blank" rel="noopener"} 
 
 ## Preprints
 
@@ -94,3 +89,9 @@ in Proceedings of 23rd IEEE International Workshop on Machine Learning for Signa
 
 [C1] M. Sadeghi, M. Babaie-Zadeh, and C. Jutten, **A new algorithm for learning over-complete dictionaries**, 
 in Proceedings of 21st European Signal Processing Conference (EUSIPCO 2013), Marrakesh, Morocco, 2013.
+
+## Theses (in Persian)
+
+* [PhD Thesis](https://msaadeghii.github.io/files/PhDThesis.pdf){:target="_blank" rel="noopener"} 
+
+* [M.Sc. Thesis](https://msaadeghii.github.io/files/MSc_Thesis.pdf){:target="_blank" rel="noopener"} 
