@@ -11,9 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-## Preprints
+## Theses (in Persian)
 
-[P5] M. Sadeghi and P. Magron, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, April 2022.
+* [PhD Thesis](https://msaadeghii.github.io/files/PhDThesis.pdf){:target="_blank" rel="noopener"} 
+
+* [M.Sc. Thesis](https://msaadeghii.github.io/files/MSc_Thesis.pdf){:target="_blank" rel="noopener"} 
+
+## Preprints
 
 [P4] Z. Kang, M. Sadeghi, R. Horaud, J. Donley, A. Kumar, and X. Alameda-Pineda, **Expression-preserving face frontalization improves visually assisted speech processing**, April 2022.
 
@@ -46,6 +50,8 @@ author_profile: true
 [J1] M. Sadeghi, M. Babaie-Zadeh, and C. Jutten, **Dictionary Learning for Sparse Representation: A Novel Approach**, IEEE Signal Processing Letters, vol. 20, no. 12, pp. 1195-1198, December 2013. (MATLAB code,  Data) (Nominated for IEEE SPL best paper award, 2017)
 
 ## Conference papers
+
+[C20] M. Sadeghi and P. Magron, **A Sparsity-promoting Dictionary Model for Variational Autoencoders**, in Procedeeings of Interspeech, September 2022.
 
 [C19] Z. Kang, M. Sadeghi, R. Horaud, J. Donley, A. Kumar, and X. Alameda-Pineda, **The impact of removing head movements on audio-visual speech enhancement**, in IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP), May 2022.
 
