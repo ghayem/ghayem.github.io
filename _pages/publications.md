@@ -54,7 +54,7 @@ author_profile: true
 
 [C17] Z. Kang, R. Horaud, M. Sadeghi, **Robust Face Frontalization For Visual Speech Recognition**, in Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2021.
 
-[C16] M. Sadeghi and X. Alameda-Pineda, **Switching Variational Auto-Encoders for Noise-Agnostic Audio-visual Speech Enhancement**, in IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP), Toronto, Ontario, Canada, June 2021. [(Slides)(/files/SwVAE_slides.pdf){:target="_blank" rel="noopener"}, (Poster)(/files/SwVAE_poster.pdf){:target="_blank" rel="noopener"}]
+[C16] M. Sadeghi and X. Alameda-Pineda, **Switching Variational Auto-Encoders for Noise-Agnostic Audio-visual Speech Enhancement**, in IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP), Toronto, Ontario, Canada, June 2021. [[Slides](/files/SwVAE_slides.pdf){:target="_blank" rel="noopener"}, [Poster](/files/SwVAE_poster.pdf){:target="_blank" rel="noopener"}]
 
 [C15] M. Sadeghi and X. Alameda-Pineda, **Robust Unsupervised Audio-visual Speech Enhancement Using a Mixture of Variational Autoencoders**, in IEEE International Conference on Acoustics Speech and Signal Processing (ICASSP), Barcelona, Spain, May 2020.
 
