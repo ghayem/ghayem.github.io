@@ -48,7 +48,7 @@ Some useful books:
 
 Some helpful notes:
 
-* [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw){:target="_blank" rel="noopener"}
+* [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw){:target="_blank" rel="noopener"} + [A stroke of genius](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html){:target="_blank" rel="noopener"}
 
 * [How to write the introduction for a research paper](https://sites.google.com/site/msaadeghii23/How%20to%20write%20the%20introduction.pdf?attredirects=0&d=1){:target="_blank" rel="noopener"} (by Kate Saenko)
 
