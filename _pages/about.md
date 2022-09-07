@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+> “Shoot for the moon. Even if you miss, you'll land among the stars.” —Norman Vincent Peale
+
 <style type="text/css"> body{ font-size: 13pt; } </style>
 
 I am a researcher with the [Multispeech team](https://team.inria.fr/multispeech/){:target="_blank" rel="noopener"} at Inria Nancy - Grand Est, France. My current research focuses on robust audio-visual speech processing.
