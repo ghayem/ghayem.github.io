@@ -8,7 +8,7 @@
 # Site Settings
 markdown                 : kramdown
 locale                   : "en-US"
-title                    : "Mostafa SADEGHI"
+title                    : "Mostafa SADEGH"
 title_separator          : "-"
 name                     : &name "Mostafa SADEGHI"
 description              : &description "Researcher at Inria, Multispeech team"
