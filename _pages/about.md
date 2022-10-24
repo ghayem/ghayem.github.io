@@ -18,10 +18,8 @@ On this webpage, you can explore my research activities which are mainly focused
 * Statistical signal processing 
 * Machine learning
 * Local/global optimization
-* Dictionary learning
-* Sparse representation
-* Compressed sensing
-* Optimal sensor placement
-* Source extraction
+* Dictionary learning, sparse representation, compressed sensing
+* Optimal sensor placement for source extraction
+* Independent component analysis (ICA) and independent vector analysis (IVA) for multi-subject resting-state fMRI study
 
 I have a keen interest in playing the violin!
