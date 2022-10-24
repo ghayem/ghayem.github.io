@@ -10,8 +10,8 @@ markdown                 : kramdown
 locale                   : "en-US"
 title                    : "Fateme GHAYEM"
 title_separator          : "-"
-name                     : &name "Mostafa SADEGHI"
-description              : &description "Postdoctoral Research Fellow at MLSP-lab, UMBC, MD, USA"
+name                     : &name "Fateme GHAYEM"
+description              : &description " "
 url                      : https://ghayem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ghayem/ghayem.github.io"
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Fateme GHAYEM"
-  avatar           : "fateme_ghayem.jpg"
+  avatar           : "ghayem.jpg"
   bio              : " "
   location         : "France"
   employer         :
