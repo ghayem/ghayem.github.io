@@ -8,13 +8,13 @@
 # Site Settings
 markdown                 : kramdown
 locale                   : "en-US"
-title                    : "Mostafa SADEGHI"
+title                    : "Fateme GHAYEM"
 title_separator          : "-"
 name                     : &name "Mostafa SADEGHI"
-description              : &description "Researcher at Inria, Multispeech team"
-url                      : https://msaadeghii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Postdoctoral Research Fellow at MLSP-lab, UMBC, MD, USA"
+url                      : https://ghayem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "msaadeghii/msaadeghii.github.io"
+repository               : "ghayem/ghayem.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mostafa SADEGHI"
-  avatar           : "msadeghi.jpg"
-  bio              : "Researcher at Inria"
-  location         : "France"
+  name             : "Fateme GHAYEM"
+  avatar           : "fateme_ghayem.jpg"
+  bio              : "Postdoctoral Research Fellow at MLSP-lab, UMBC, MD, USA"
+  location         : "USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=gSQ5xpcAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=E3nIEHwAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Mostafa-Sadeghi-7" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Fateme-Ghayem" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "msaadeghii"
+  github           : "ghayem"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "msaadeghii/"
+  linkedin         : "https://www.linkedin.com/in/fateme-ghayem-87a15088/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "smostafa23"
+  twitter          : "https://twitter.com/fatemeghayem"
   vine             :
   weibo            :
   xing             :
