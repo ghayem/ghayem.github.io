@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> “Shoot for the moon. Even if you miss, you'll land among the stars.” —Norman Vincent Peale
+<!-- > “Shoot for the moon. Even if you miss, you'll land among the stars.” —Norman Vincent Peale -->
 
 <style type="text/css"> body{ font-size: 13pt; } </style>
 
