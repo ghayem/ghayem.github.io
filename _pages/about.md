@@ -21,5 +21,6 @@ On this webpage, you can explore my research activities which are mainly focused
 * Dictionary learning, sparse representation, compressed sensing
 * Optimal sensor placement for source extraction
 * Independent component analysis (ICA) and independent vector analysis (IVA) for multi-subject resting-state fMRI study
+* Graph signal processing (GSP) and graph neural net (GNN)
 
 I have a keen interest in playing the violin!
