@@ -43,7 +43,7 @@ author_profile: true
 [Paper](https://ghayem.github.io/files/OSP_SignalExtraction_ICASSP2019.pdf){:target="_blank" rel="noopener"}
 [Slides](https://ghayem.github.io/files/OSP_SignalExtraction_ICASSP2019_Presentation.pdf){:target="_blank" rel="noopener"}
 
-[C3] M. Sadeghi, F. Ghayem, M. Babaie-Zadeh, S. Chatterjee, M. Skoglund, and C. Jutten, **L0Soft: L0 Minimization via Soft Thresholding**, in Proceedings of the 27th European Signal Processing Conference (EUSIPCO), 2-6 September 2019.
+[C3] M. Sadeghi, F. Ghayem, M. Babaie-Zadeh, S. Chatterjee, M. Skoglund, and C. Jutten, **L0Soft: L0 Minimization via Soft Thresholding**, in Proceedings of the 27th European Signal Processing Conference (EUSIPCO), September 2019.
 [Paper](https://ghayem.github.io/files/L0Soft_EUSIPCO_2019.pdf){:target="_blank" rel="noopener"}
 
 [C2] F. Ghayem, M. Sadeghi, M. Babaie-Zadeh, and C. Jutten, **Accelerated dictionary learning for sparse signal representation**, 13th International Conference on Latent Variable Analysis and Signal Separation, LVA/ICA, Grenoble, France, 2017.
