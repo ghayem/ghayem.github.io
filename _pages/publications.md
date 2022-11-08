@@ -28,7 +28,7 @@ author_profile: true
 [Paper](https://ghayem.github.io/files/RSP_TSP_2021.pdf){:target="_blank" rel="noopener"}
 
 [J1] F. Ghayem, M. Sadeghi, M. Babaie-Zadeh, S. Chatterjee, M. Skoglund, and C. Jutten, **Sparse Signal Recovery Using Iterative Proximal Projection**, IEEE Transactions on Signal Processing, vol. 69, pp. 4513-4528, February 2021.
-[Paper](https://ghayem.github.io/files/IPP_TSP_2021.pdf){:target="_blank" rel="noopener"}
+[Paper](https://ghayem.github.io/files/IPP_TSP_2017.pdf){:target="_blank" rel="noopener"}
 
 
 ## Conference papers
