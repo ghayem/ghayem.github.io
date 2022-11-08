@@ -7,7 +7,7 @@ author_profile: true
 
 <style type="text/css"> body{ font-size: 12pt; } </style>
 
-  You can also check my [Google Scholar profile](https://scholar.google.com/citations?user=gSQ5xpcAAAAJ&hl=en){:target="_blank" rel="noopener"}.
+  You can also check my [Google Scholar profile](https://scholar.google.com/citations?user=E3nIEHwAAAAJ&hl=en){:target="_blank" rel="noopener"}.
 
 {% include base_path %}
 
