@@ -33,7 +33,8 @@ author_profile: true
 
 ## Conference papers
 
-[C6]  H. Yang, MABS. Akhonda, F. Ghayem, Q. Long, VD. Calhoun, T Adali, **Indep- endent Vector Analysis Based Subgroup Identification from Multisubject fMRI Data**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), May 2022.
+[C6]  H. Yang, MABS. Akhonda, F. Ghayem, Q. Long, VD. Calhoun, T Adali, **Independent Vector Analysis Based Subgroup Identification from Multisubject fMRI Data**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), May 2022.
+[Paper](https://ghayem.github.io/files/Subgroup_Identification_ICASSP2022.pdf){:target="_blank" rel="noopener"}
 
 [C5] F. Ghayem, B. Rivet, Ch. Jutten, R. Cabral Farias, **Gradient-based algorithm with spatial regularization for optimal sensor placement**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), May 2020.
 [Paper](https://ghayem.github.io/files/ICASSP2020.pdf){:target="_blank" rel="noopener"}
