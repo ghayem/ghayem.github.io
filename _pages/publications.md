@@ -93,5 +93,3 @@ in Proceedings of 21st European Signal Processing Conference (EUSIPCO 2013), Mar
 ## Theses
 
 * [PhD Thesis](https://ghayem.github.io/files/PhDThesis.pdf){:target="_blank" rel="noopener"} 
-
-* [M.Sc. Thesis](https://msaadeghii.github.io/files/MSc_Thesis.pdf){:target="_blank" rel="noopener"} 
