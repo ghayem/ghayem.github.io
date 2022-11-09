@@ -14,7 +14,7 @@ redirect_from:
 
 I am a researcher, nemophilist, and aesthete!<br/>
 I have a keen interest in playing the violin!<br/>
-I wish I could dance ballet, and let my body fly! One day, I might! For now, I run instead.<br/>
+I wish I could dance ballet! One day, I might! For now, I run instead.<br/>
 Personality: emotional, sensitive, logical, moderately extraverted, strict, relatively stubborn, altruistic, and social.
 
 ## Research Interests 
@@ -25,4 +25,12 @@ Personality: emotional, sensitive, logical, moderately extraverted, strict, rela
 * Optimal sensor placement for source extraction
 * Independent component analysis (ICA) and independent vector analysis (IVA) for multiset data
 * Graph signal processing (GSP) and graph neural net (GNN)
+
+My opinions about research: 
+- Research should be a piece of art! Quality matters, and it should be respected.
+- Productivity is also important. That's where team working takes place.
+- Team working requires strong communication skills. That's why ethics is important.
+- Ethics directly relates to mental health.
+- Conclusion: The prerequisite of a researcher is to have good mental health, which needs attention.
+
 
