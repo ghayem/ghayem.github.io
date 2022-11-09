@@ -12,8 +12,8 @@ redirect_from:
 
 <style type="text/css"> body{ font-size: 13pt; } </style>
 
-I am a researcher, nemophilist, and aesthete!
-I have a keen interest in playing the violin!
+I am a researcher, nemophilist, and aesthete!  
+I have a keen interest in playing the violin!  
 I wish I could dance ballet!
 
 ## Research Interests 
