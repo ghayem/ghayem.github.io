@@ -26,8 +26,10 @@ On this webpage, you can explore my research activities which are mainly focused
 
 ## A short note
 
-As a research scientist, I truly believe that research involves more than just coming up with ideas and writing papers. In my opinion, there are a number of other factors of research that must be considered. These aspects bring beauty into the research and make it enjoyable.
+As a research scientist, I truly believe that research involves more than just coming up with ideas and writing papers. In my opinion, there are a number of other factors of research that must be considered which I refer to as the "*aesthetic*" side of research.
+
 I use the example of performing a piece of music to clarify. A piece of music can be played based on the notes printed on the paper. However, the essence of the music is heard when e.g. we add intonations to the melody or perform a duet with another instrument. On the other hand, imagine that the notes are performed incorrectly or without taking intonation into account. Consequently, this performance not only does not help people but also frustrates them.
+
 This is all about research as well which is rarely considered. In my opinion, each individual research project is a piece of art, and many aspects should be covered.
 So, in order to discuss the *aesthetic* part of research, I opened a new part on my website called "Blog", where I offer brief essays that discuss my various findings for joyful and artistic research.
 
