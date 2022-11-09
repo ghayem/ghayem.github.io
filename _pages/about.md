@@ -12,7 +12,9 @@ redirect_from:
 
 <style type="text/css"> body{ font-size: 13pt; } </style>
 
-I am a researcher!
+I am a researcher, nemophilist, and aesthete!
+I have a keen interest in playing the violin!
+I wish I could dance ballet!
 
 ## Research Interests 
 * Statistical signal processing 
@@ -20,8 +22,6 @@ I am a researcher!
 * Local/global optimization
 * Dictionary learning, sparse representation, compressed sensing
 * Optimal sensor placement for source extraction
-* Independent component analysis (ICA) and independent vector analysis (IVA) for multiset data for different applications such as multi-subject resting-state fMRI study
+* Independent component analysis (ICA) and independent vector analysis (IVA) for multiset data
 * Graph signal processing (GSP) and graph neural net (GNN)
-
-I have a keen interest in playing the violin!
 
