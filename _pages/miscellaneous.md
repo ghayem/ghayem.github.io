@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 
-Here you can find some interesting resources on deep learning and neural networks:
+<!-- Here you can find some interesting resources on deep learning and neural networks:
 
 * [Machine learning, deep learning, and artificial intelligence easy-to-digest cheatsheets](https://stanford.edu/~shervine/teaching/){:target="_blank" rel="noopener"}
 * [A very nice browser-based platform for training and visualizing deep networks](https://cs.stanford.edu/people/karpathy/convnetjs/){:target="_blank" rel="noopener"}
@@ -52,4 +52,4 @@ Some helpful notes:
 
 * [How to write the introduction for a research paper](https://sites.google.com/site/msaadeghii23/How%20to%20write%20the%20introduction.pdf?attredirects=0&d=1){:target="_blank" rel="noopener"} (by Kate Saenko)
 
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university){:target="_blank" rel="noopener"}
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university){:target="_blank" rel="noopener"} -->
