@@ -24,7 +24,7 @@ On this webpage, you can explore my research activities which are mainly focused
 * Independent component analysis (ICA) and independent vector analysis (IVA) for multiset data for different applications such as multi-subject resting-state fMRI study
 * Graph signal processing (GSP) and graph neural net (GNN)
 
-# A short note
+## A short note
 
 As a research scientist, I truly believe that research involves more than just coming up with ideas and writing papers. In my opinion, there are a number of other factors of research that must be considered. These aspects bring beauty into the research and make it enjoyable.
 I use the example of performing a piece of music to clarify. A piece of music can be played based on the notes printed on the paper. However, the essence of the music is heard when e.g. we add intonations to the melody or perform a duet with another instrument. On the other hand, imagine that the notes are performed incorrectly or without taking intonation into account. Consequently, this performance not only does not help people but also frustrates them.
