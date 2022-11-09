@@ -19,4 +19,4 @@ author_profile: true
 * A simple [demo](/files/Sparse Demo.zip){:target="_blank" rel="noopener"} of *Sparse Land*, including, various sparse signal recovery (compressed sensing) algorithms, demonstration of simple dimensionality reduction schemes based on *Discrete Cosine Transform (DCT)* and *Principal Component Analysis (PCA)*, and so on. -->
 
 * A talk on [Optimal Sensor Placement for Source Extraction](/files/Presentation_PhDdefence_Oct2020.pdf){:target="_blank" rel="noopener"}. 
-* - Presented in Centre de Recherche en Automatique de Nancy (CRAN), Department of Biology, Signals & Systems.
+ - Presented in Centre de Recherche en Automatique de Nancy (CRAN), Department of Biology, Signals & Systems.
