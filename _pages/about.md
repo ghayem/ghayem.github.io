@@ -14,7 +14,7 @@ redirect_from:
 
 I am a researcher!
 
-** Research Interests 
+## Research Interests 
 * Statistical signal processing 
 * Machine learning
 * Local/global optimization
