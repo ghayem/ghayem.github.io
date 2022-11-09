@@ -59,6 +59,6 @@ author_profile: true
 [Paper](https://ghayem.github.io/files/HelicalAntenna_APCAP_2014.pdf){:target="_blank" rel="noopener"}
 
 ## Theses
-* PhD Thesis
-[Dissertation](https://ghayem.github.io/files/PhDThesis.pdf){:target="_blank" rel="noopener"} 
+**PhD Thesis:**
+[Dissertation](https://ghayem.github.io/files/PhDThesis.pdf){:target="_blank" rel="noopener"},
 [Slides](https://ghayem.github.io/files/Presentation_PhDdefence_Oct2020.pdf){:target="_blank" rel="noopener"}
