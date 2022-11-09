@@ -13,7 +13,8 @@ redirect_from:
 <style type="text/css"> body{ font-size: 13pt; } </style>
 
 I am a researcher!
-On this webpage, you can explore my research activities which are mainly focused on:
+
+** Research Interests 
 * Statistical signal processing 
 * Machine learning
 * Local/global optimization
