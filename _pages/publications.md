@@ -25,18 +25,18 @@ author_profile: true
 ## Journal papers
 
 [J2] F. Ghayem B. Rivet, Ch. Jutten, R. Cabral Farias, **Robust sensor placement for signal extraction**, IEEE Trans. Signal Processing, vol. 24, no. 1, pp. 32-36, January 2021.
-[Paper](https://ghayem.github.io/files/RSP_TSP_2021.pdf){:target="_blank" rel="noopener"} ,
+[Paper](https://ghayem.github.io/files/RSP_TSP_2021.pdf){:target="_blank" rel="noopener"},
 [Codes](https://github.com/ghayem/RSP){:target="_blank" rel="noopener"}
 
 [J1] F. Ghayem, M. Sadeghi, M. Babaie-Zadeh, S. Chatterjee, M. Skoglund, and C. Jutten, **Sparse Signal Recovery Using Iterative Proximal Projection**, IEEE Transactions on Signal Processing, vol. 69, pp. 4513-4528, February 2017.
-[Paper](https://ghayem.github.io/files/IPP_TSP_2017.pdf){:target="_blank" rel="noopener"} ,
+[Paper](https://ghayem.github.io/files/IPP_TSP_2017.pdf){:target="_blank" rel="noopener"},
 [Codes](https://github.com/ghayem/IPP){:target="_blank" rel="noopener"}
 
 
 ## Conference papers
 
 [C6]  H. Yang, MABS. Akhonda, F. Ghayem, Q. Long, VD. Calhoun, T Adali, **Independent Vector Analysis Based Subgroup Identification from Multisubject fMRI Data**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), May 2022.
-[Paper](https://ghayem.github.io/files/Subgroup_Identification_ICASSP2022.pdf){:target="_blank" rel="noopener"} , 
+[Paper](https://ghayem.github.io/files/Subgroup_Identification_ICASSP2022.pdf){:target="_blank" rel="noopener"}, 
 [Slides](https://ghayem.github.io/files/ICASSP2022_presentation.pdf){:target="_blank" rel="noopener"}
 
 [C5] F. Ghayem, B. Rivet, Ch. Jutten, R. Cabral Farias, **Gradient-based algorithm with spatial regularization for optimal sensor placement**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), May 2020.
@@ -48,11 +48,11 @@ author_profile: true
 [Slides](https://ghayem.github.io/files/OSP_SignalExtraction_ICASSP2019_Presentation.pdf){:target="_blank" rel="noopener"}
 
 [C3] M. Sadeghi, F. Ghayem, M. Babaie-Zadeh, S. Chatterjee, M. Skoglund, and C. Jutten, **L0Soft: L0 Minimization via Soft Thresholding**, in Proceedings of the 27th European Signal Processing Conference (EUSIPCO), September 2019.
-[Paper](https://ghayem.github.io/files/L0Soft_EUSIPCO_2019.pdf){:target="_blank" rel="noopener"} ,
+[Paper](https://ghayem.github.io/files/L0Soft_EUSIPCO_2019.pdf){:target="_blank" rel="noopener"},
 [Codes](https://github.com/ghayem/L0soft){:target="_blank" rel="noopener"}
 
 [C2] F. Ghayem, M. Sadeghi, M. Babaie-Zadeh, and C. Jutten, **Accelerated dictionary learning for sparse signal representation**, 13th International Conference on Latent Variable Analysis and Signal Separation, LVA/ICA, Grenoble, France, 2017.
-[Paper](https://ghayem.github.io/files/ADL_LVA_ICA_2017.pdf){:target="_blank" rel="noopener"} ,
+[Paper](https://ghayem.github.io/files/ADL_LVA_ICA_2017.pdf){:target="_blank" rel="noopener"},
 [Codes](https://github.com/ghayem/ADL){:target="_blank" rel="noopener"}
 
 [C1] F. Ghayem  and F. Rassaie, **Helical antenna to measure radiated power density around a BTS; Design and implementation**, 3rd Asia-Pacific Conference on Antennas and Propagation (APCAP), Harbin, China, July 2014.
