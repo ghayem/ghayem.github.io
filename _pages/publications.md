@@ -34,15 +34,15 @@ author_profile: true
 ## Conference papers
 
 [C6]  H. Yang, MABS. Akhonda, F. Ghayem, Q. Long, VD. Calhoun, T Adali, **Independent Vector Analysis Based Subgroup Identification from Multisubject fMRI Data**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), May 2022.
-[Paper](https://ghayem.github.io/files/Subgroup_Identification_ICASSP2022.pdf){:target="_blank" rel="noopener"}
+[Paper](https://ghayem.github.io/files/Subgroup_Identification_ICASSP2022.pdf){:target="_blank" rel="noopener"}, 
 [Slides](https://ghayem.github.io/files/ICASSP2022_presentation.pdf){:target="_blank" rel="noopener"}
 
 [C5] F. Ghayem, B. Rivet, Ch. Jutten, R. Cabral Farias, **Gradient-based algorithm with spatial regularization for optimal sensor placement**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), May 2020.
-[Paper](https://ghayem.github.io/files/ICASSP2020.pdf){:target="_blank" rel="noopener"}
+[Paper](https://ghayem.github.io/files/ICASSP2020.pdf){:target="_blank" rel="noopener"},
 [Slides](https://ghayem.github.io/files/ICASSP2020_Presentation.pdf){:target="_blank" rel="noopener"}
 
 [C4] F. Ghayem, B. Rivet, Ch. Jutten, R. Cabral Farias, **Optimal sensor placement for signal extraction**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), May 2019.
-[Paper](https://ghayem.github.io/files/OSP_SignalExtraction_ICASSP2019.pdf){:target="_blank" rel="noopener"}
+[Paper](https://ghayem.github.io/files/OSP_SignalExtraction_ICASSP2019.pdf){:target="_blank" rel="noopener"},
 [Slides](https://ghayem.github.io/files/OSP_SignalExtraction_ICASSP2019_Presentation.pdf){:target="_blank" rel="noopener"}
 
 [C3] M. Sadeghi, F. Ghayem, M. Babaie-Zadeh, S. Chatterjee, M. Skoglund, and C. Jutten, **L0Soft: L0 Minimization via Soft Thresholding**, in Proceedings of the 27th European Signal Processing Conference (EUSIPCO), September 2019.
