@@ -14,7 +14,8 @@ redirect_from:
 
 I am a researcher, nemophilist, and aesthete!<br/>
 I have a keen interest in playing the violin!<br/>
-I wish I could dance ballet! One day, I might! For now, I run instead :) <br/>
+I run! <br/>
+<!-- I wish I could dance ballet! One day, I might! For now, I run instead :) <br/> -->
 <!-- Personality: emotional, sensitive, logical, moderately extraverted, strict, relatively stubborn, altruistic, and social. -->
 
 ## Research Interests 
@@ -26,11 +27,11 @@ I wish I could dance ballet! One day, I might! For now, I run instead :) <br/>
 * Independent component analysis (ICA) and independent vector analysis (IVA) for multiset data
 * Graph signal processing (GSP) and graph neural net (GNN)
 
-## My hierarchical opinion about research
+<!-- ## My hierarchical opinion about research
 - Research should be a piece of art! Quality matters, and it should be respected.
 - Productivity is also important. That's where team working takes place.
 - Team working requires strong communication skills. That's why ethics is important.
 - Ethics directly relates to mental health.<br/>
-- **Conclusion:** The prerequisite for a researcher is to have a good mental health. This needs constant special care!
+- **Conclusion:** The prerequisite for a researcher is to have a good mental health. This needs constant special care! -->
 
 
