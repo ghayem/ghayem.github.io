@@ -31,6 +31,6 @@ Personality: emotional, sensitive, logical, moderately extraverted, strict, rela
 - Productivity is also important. That's where team working takes place.
 - Team working requires strong communication skills. That's why ethics is important.
 - Ethics directly relates to mental health.<br/>
-- **Conclusion:** The prerequisite of a researcher is to have good mental health. This needs special care!
+- **Conclusion:** The prerequisite for a researcher is to have good mental health. This needs special care!
 
 
