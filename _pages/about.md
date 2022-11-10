@@ -15,7 +15,7 @@ redirect_from:
 I am a researcher, nemophilist, and aesthete!<br/>
 I have a keen interest in playing the violin!<br/>
 I wish I could dance ballet! One day, I might! For now, I run instead.<br/>
-Personality: emotional, sensitive, logical, moderately extraverted, strict, relatively stubborn, altruistic, and social.
+<!-- Personality: emotional, sensitive, logical, moderately extraverted, strict, relatively stubborn, altruistic, and social. -->
 
 ## Research Interests 
 * Statistical signal processing 
