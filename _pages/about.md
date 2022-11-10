@@ -30,7 +30,7 @@ My opinions about research:
 - Research should be a piece of art! Quality matters, and it should be respected.
 - Productivity is also important. That's where team working takes place.
 - Team working requires strong communication skills. That's why ethics is important.
-- Ethics directly relates to mental health.
-- Conclusion: The prerequisite of a researcher is to have good mental health, which needs attention.
+- Ethics directly relates to mental health.<br/>
+**Conclusion:** The prerequisite of a researcher is to have good mental health, which needs attention.
 
 
