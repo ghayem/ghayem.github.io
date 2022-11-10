@@ -26,7 +26,7 @@ Personality: emotional, sensitive, logical, moderately extraverted, strict, rela
 * Independent component analysis (ICA) and independent vector analysis (IVA) for multiset data
 * Graph signal processing (GSP) and graph neural net (GNN)
 
-## My hierarchical opinion about research: 
+## My hierarchical opinion about research
 - Research should be a piece of art! Quality matters, and it should be respected.
 - Productivity is also important. That's where team working takes place.
 - Team working requires strong communication skills. That's why ethics is important.
