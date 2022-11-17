@@ -22,6 +22,14 @@ author_profile: true
 
 [P1] S. Chatterjee, A. M. Javid, M. Sadeghi, S. Kikuta, P. P. Mitra, M. Skoglund, **SSFN: Self Size-estimating Feed-forward Network and Low Complexity Design**, March 2020. -->
 
+## Preprints
+
+[P2] F. Ghayem, H. Yang, F. Kantar, S-J. Kim, V. D. Calhoun, T. Adali, **New Interpretable Patterns and Discriminative Features from Brain Functional Network Connectivity Using Dictionary Learning**, submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
+[Preprint](https://arxiv.org/abs/2211.07374){:target="_blank" rel="noopener"}
+
+[P1] H. Yang, F. Ghayem, B. Gabrielson, M. A. B. S. Akhonda, V. D. Calhoun, T. Adali, **Constrained independent component analysis based on entropy bound minimization for subgroup identification from multisubject fMRI data**, submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
+
+
 ## Journal papers
 
 [J2] F. Ghayem B. Rivet, Ch. Jutten, R. Cabral Farias, **Robust sensor placement for signal extraction**, IEEE Trans. Signal Processing, vol. 24, no. 1, pp. 32-36, January 2021.
