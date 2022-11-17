@@ -18,13 +18,13 @@ I have a keen interest in playing the violin, and running!<br/>
 <!-- Personality: emotional, sensitive, logical, moderately extraverted, strict, relatively stubborn, altruistic, and social. -->
 
 ## Research Interests 
-* Statistical signal processing 
+* Statistical signal processing and Bayesian modeling
 * Machine learning
-* Local/global optimization
-* Dictionary learning, sparse representation, compressed sensing
+* Numerical optimization
+* Dictionary learning
 * Optimal sensor placement for source extraction
-* Independent component analysis (ICA) and independent vector analysis (IVA) for multiset data
-* Graph signal processing (GSP) and graph neural net (GNN)
+* Independent component analysis (ICA) and independent vector analysis (IVA) for multiset fMRI data
+* Graph neural networks (GNN)
 
 <!-- ## My hierarchical opinion about research
 - Research should be a piece of art! Quality matters, and it should be respected.
