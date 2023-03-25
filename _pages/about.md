@@ -12,10 +12,12 @@ redirect_from:
 
 <style type="text/css"> body{ font-size: 13pt; } </style>
 
-I am a researcher, nemophilist, and aesthete!<br/>
+Since March 2023, I am a postdoctoral researcher at [MIND team](https://team.inria.fr/mind/), [Inria-Saclay](https://www.inria.fr/fr) under supervision of [Prof. Bertrand Thirion](https://scholar.google.fr/citations?user=MeKi5_AAAAAJ&hl=fr). My research is in the intersection between machine learning, signal processing, and statistics for neuroscience and neuroimaging study.
+
+Before joining Inria, I worked as a postdoctoral researcher at the [MLSP-lab](https://mlsp.umbc.edu/) at the University of Maryland, Baltimore County (UMBC) under the supervision of [Prof. Tulay Adali](https://scholar.google.com/citations?user=KgjUnawAAAAJ&hl=en) for one year. During this period, my research was focused on studying the brain, where I identify new patterns and discriminant features of brain functional network connectivity, subgroup identification, brain graph neural network, and reproducibility and applicability assessment. I obtained my Ph.D. in biomedical engineering from the [GIPSA-lab](https://www.gipsa-lab.grenoble-inp.fr/) University Grenoble Alpes, under supervision of [Prof. Christian Jutten](https://scholar.google.com/citations?user=iO3qCToAAAAJ) and [Dr. Bertrand Rivet](https://www.gipsa-lab.grenoble-inp.fr/~bertrand.rivet/index.html), where I worked on optimal sensor placement for source extraction, and my M.Sc. in biomedical engineering from [Sharif University of Technology](https://en.wikipedia.org/wiki/Sharif_University_of_Technology), where I worked on the reconstruction of magnetic resonance images using compressed sensing methods. Prior to my Ph.D., I worked as a research assistant at the DSP-lab at Sharif University of Technology, under supervision of [Prof. Massoud Babaie-Zadeh](https://scholar.google.com/citations?user=5H-SuMcAAAAJ&hl=en) where I developed accelerated dictionary learning algorithms for minimizing a non-smooth and non-convex sparsity-promoting function and developed an efficient solver for this problem by using a penalty method along with proximal ideas.
+
+I am nemophilist, and aesthete!<br/>
 I have a keen interest in playing the violin, and running!<br/>
-<!-- I wish I could dance ballet! One day, I might! For now, I run instead :) <br/> -->
-<!-- Personality: emotional, sensitive, logical, moderately extraverted, strict, relatively stubborn, altruistic, and social. -->
 
 ## Research Interests 
 * Statistical signal processing and Bayesian modeling
