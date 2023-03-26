@@ -22,12 +22,12 @@ I have a keen interest in playing the violin, and running!
 ## Research Interests 
 * Large Language Model (LLM) for brain metadata analysis
 * Statistical signal processing and Bayesian modeling
-* Machine learning
-* Numerical optimization
-* Dictionary learning
+* Machine Learning
+* Numerical Optimization
+* Dictionary Learning
 * Optimal sensor placement for source extraction
-* Independent component analysis (ICA) and independent vector analysis (IVA) for multiset fMRI data
-* Graph neural networks (GNN)
+* Independent Component Analysis (ICA) and Independent Vector Analysis (IVA) for multiset fMRI data
+* Graph Neural Networks (GNN)
 
 <!-- ## A bit more about me:
 - I am more of a qualitative researcher than a quantitative one and I believe that the formation of a united team that cares about the quality of research can eventually cover the quantitative part.
