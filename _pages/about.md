@@ -19,15 +19,8 @@ Previously, I worked as a postdoctoral researcher for a year at the [MLSP-lab](h
 I am nemophilist, and aesthete!<br/>
 I have a keen interest in playing the violin, and runing!
 
-
-<!-- ## A bit more about me:
-- I am more of a qualitative researcher than a quantitative one and I believe that the formation of a united team that cares about the quality of research can eventually cover the quantitative part.
-- I am nemophilist, and aesthete!<br/>
-- I have a keen interest in playing the violin!
-- I MeditaRun (a particular type of running I have designed suitable for me adapted to my body responses that is combined with meditation). As far as I know, I am the first person to use the word 'MeditaRun', and I consider the copyright to belong to me. The more I get to know myself, the more I am able to refine my individual running techniques and better understand how to harmonize my mind and body through MeditaRun.
-
 ## Research Interests 
-* Large language model (LLM) for brain metadata analysis
+* Large Language Model (LLM) for brain metadata analysis
 * Statistical signal processing and Bayesian modeling
 * Machine learning
 * Numerical optimization
@@ -35,6 +28,12 @@ I have a keen interest in playing the violin, and runing!
 * Optimal sensor placement for source extraction
 * Independent component analysis (ICA) and independent vector analysis (IVA) for multiset fMRI data
 * Graph neural networks (GNN)
+
+<!-- ## A bit more about me:
+- I am more of a qualitative researcher than a quantitative one and I believe that the formation of a united team that cares about the quality of research can eventually cover the quantitative part.
+- I am nemophilist, and aesthete!<br/>
+- I have a keen interest in playing the violin!
+- I MeditaRun (a particular type of running I have designed suitable for me adapted to my body responses that is combined with meditation). As far as I know, I am the first person to use the word 'MeditaRun', and I consider the copyright to belong to me. The more I get to know myself, the more I am able to refine my individual running techniques and better understand how to harmonize my mind and body through MeditaRun.
 
 <!-- ## My hierarchical opinion about research
 - Research should be a piece of art! Quality matters, and it should be respected.
