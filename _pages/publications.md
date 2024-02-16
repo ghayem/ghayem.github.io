@@ -24,11 +24,11 @@ author_profile: true
 
 ## Preprints
 
-[P2] F. Ghayem, H. Yang, F. Kantar, S-J. Kim, V. D. Calhoun, T. Adali, **New Interpretable Patterns and Discriminative Features from Brain Functional Network Connectivity Using Dictionary Learning**, submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
-[Preprint](https://arxiv.org/abs/2211.07374){:target="_blank" rel="noopener"}
+[P1] R. Meudec, F. Ghayem, J. Dockès, D. Wassermann, B. Thirion, **Efficient Representation Learning Framework for Associating Neuroscientific Text with Brain Activation**, to be submitted to International Conference on Medical Image Computing And Computer Assisted Intervention (MICCAI), March 2024.
 
-[P1] H. Yang, F. Ghayem, B. Gabrielson, M. A. B. S. Akhonda, V. D. Calhoun, T. Adali, **Constrained independent component analysis based on entropy bound minimization for subgroup identification from multisubject fMRI data**, submitted to International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2023.
+[P2] R. Meudec, J. Dockès, F. Ghayem, D. Wassermann, B. Thirion, **Enriching Neuroscientific Publications through fMRI Statistical Image Reconstruction from Stereotactic Coordinates**, to be submitted to PLOS Computational Biology, March 2024.
 
+[P3] F. Ghayem, H. Yang, F. Kantar, S-J. Kim, V. D. Calhoun, T. Adali, **Dynamic Brain Network Analysis: Interpretable and Discriminative Patterns via Dictionary Learning**, to be submitted to Sensors, March 2024.
 
 ## Journal papers
 
@@ -42,6 +42,13 @@ author_profile: true
 
 
 ## Conference papers
+
+[C8] F. Ghayem, H. Yang, F. Kantar, S-J. Kim, V. D. Calhoun, T. Adali, **New Interpretable Patterns and Discriminative Features from Brain Functional Network Connectivity Using Dictionary Learning**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), June 2023.
+[Paper](https://ghayem.github.io/files/fMRI_DL.pdf){:target="_blank" rel="noopener"}
+[Slides](https://ghayem.github.io/files/fMRI_DL_slides.pdf){:target="_blank" rel="noopener"}
+
+[C7] H. Yang, F. Ghayem, B. Gabrielson, M. A. B. S. Akhonda, V. D. Calhoun, T. Adali, **Constrained independent component analysis based on entropy bound minimization for subgroup identification from multisubject fMRI data**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), June 2023.
+[Paper](https://ghayem.github.io/files/cEBM.pdf){:target="_blank" rel="noopener"}
 
 [C6]  H. Yang, MABS. Akhonda, F. Ghayem, Q. Long, VD. Calhoun, T Adali, **Independent Vector Analysis Based Subgroup Identification from Multisubject fMRI Data**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), May 2022.
 [Paper](https://ghayem.github.io/files/Subgroup_Identification_ICASSP2022.pdf){:target="_blank" rel="noopener"}, 
