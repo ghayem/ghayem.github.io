@@ -20,7 +20,7 @@ I am nemophilist, and aesthete!<br/>
 I have a keen interest in playing the violin, and running!
 
 ## Research Interests 
-* Large Language Model (LLM) for brain metadata analysis
+* Large Language Model (LLM) for brain meta-analysis
 * Statistical signal processing and Bayesian modeling
 * Machine Learning
 * Numerical Optimization
