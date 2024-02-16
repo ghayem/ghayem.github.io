@@ -22,13 +22,13 @@ author_profile: true
 
 [P1] S. Chatterjee, A. M. Javid, M. Sadeghi, S. Kikuta, P. P. Mitra, M. Skoglund, **SSFN: Self Size-estimating Feed-forward Network and Low Complexity Design**, March 2020. -->
 
-<!-- ## Under preparation
+<!-- ## Under preparation -->
 
 <!-- [P1] R. Meudec, **F. Ghayem**, J. Dockès, D. Wassermann, B. Thirion, **Efficient Representation Learning Framework for Associating Neuroscientific Text with Brain Activation**, to be submitted to International Conference on Medical Image Computing And Computer Assisted Intervention (MICCAI), March 2024.
 
-<!-- [P2] R. Meudec, J. Dockès, **F. Ghayem**, D. Wassermann, B. Thirion, **Enriching Neuroscientific Publications through fMRI Statistical Image Reconstruction from Stereotactic Coordinates**, to be submitted to PLOS Computational Biology, March 2024.
+[P2] R. Meudec, J. Dockès, **F. Ghayem**, D. Wassermann, B. Thirion, **Enriching Neuroscientific Publications through fMRI Statistical Image Reconstruction from Stereotactic Coordinates**, to be submitted to PLOS Computational Biology, March 2024.
 
-<!-- [P3] **F. Ghayem**, H. Yang, F. Kantar, S-J. Kim, V. D. Calhoun, T. Adali, **Dynamic Brain Network Analysis: Interpretable and Discriminative Patterns via Dictionary Learning**, to be submitted to Sensors, March 2024.
+[P3] **F. Ghayem**, H. Yang, F. Kantar, S-J. Kim, V. D. Calhoun, T. Adali, **Dynamic Brain Network Analysis: Interpretable and Discriminative Patterns via Dictionary Learning**, to be submitted to Sensors, March 2024. -->
 
 ## Journal papers
 
