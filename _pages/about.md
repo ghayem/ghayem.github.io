@@ -29,6 +29,11 @@ I have a keen interest in playing the violin, and running!
 * Independent Component Analysis (ICA) and Independent Vector Analysis (IVA) for multiset fMRI data
 * Graph Neural Networks (GNN)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oUax-QKnsn85P2UbipMDyAGr_wQWjWR_Ujc0CNSjiHU&cl=ffffff&w=a"></script>
+
+
+<div style="width: 300px; height: 200px; overflow: hidden;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oUax-QKnsn85P2UbipMDyAGr_wQWjWR_Ujc0CNSjiHU&cl=ffffff&w=a"></script>
+</div>
+
 
 
