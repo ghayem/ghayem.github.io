@@ -29,17 +29,6 @@ I have a keen interest in playing the violin, and running!
 * Independent Component Analysis (ICA) and Independent Vector Analysis (IVA) for multiset fMRI data
 * Graph Neural Networks (GNN)
 
-<!-- ## A bit more about me:
-- I am more of a qualitative researcher than a quantitative one and I believe that the formation of a united team that cares about the quality of research can eventually cover the quantitative part.
-- I am nemophilist, and aesthete!<br/>
-- I have a keen interest in playing the violin!
-- I MeditaRun (a particular type of running I have designed suitable for me adapted to my body responses that is combined with meditation). As far as I know, I am the first person to use the word 'MeditaRun', and I consider the copyright to belong to me. The more I get to know myself, the more I am able to refine my individual running techniques and better understand how to harmonize my mind and body through MeditaRun.
-
-<!-- ## My hierarchical opinion about research
-- Research should be a piece of art! Quality matters, and it should be respected.
-- Productivity is also important. That's where team working takes place.
-- Team working requires strong communication skills. That's why ethics is important.
-- Ethics directly relates to mental health.<br/>
-- **Conclusion:** The prerequisite for a researcher is to have a good mental health. This needs constant special care! -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=oUax-QKnsn85P2UbipMDyAGr_wQWjWR_Ujc0CNSjiHU&cl=ffffff&w=a"></script>
 
 
