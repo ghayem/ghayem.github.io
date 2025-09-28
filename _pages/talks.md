@@ -35,6 +35,6 @@ author_profile: true
 
 ---
 
-### Posters
+# Posters
 
 * **NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature**, presented at [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229), 2025, Brisbane, Australia.
