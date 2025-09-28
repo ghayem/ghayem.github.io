@@ -18,11 +18,11 @@ author_profile: true
 * For a brief tutorial on gradient backpropagation through a long short-term memory (LSTM) cell, see [this](/files/lstm.pdf){:target="_blank" rel="noopener"}.
 * A simple [demo](/files/Sparse Demo.zip){:target="_blank" rel="noopener"} of *Sparse Land*, including, various sparse signal recovery (compressed sensing) algorithms, demonstration of simple dimensionality reduction schemes based on *Discrete Cosine Transform (DCT)* and *Principal Component Analysis (PCA)*, and so on. -->
 
-* ''NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation'', presented in [The British Council in Paris](https://www.britishcouncil.fr/), September 2025, Paris, France.
+* **NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation**, presented in [The British Council in Paris](https://www.britishcouncil.fr/), September 2025, Paris, France.
 
-* ''Exploring brain function and structure: From sparse coding to multimodal meta-analysis'', presented in [TANGRAM team, Inria Nancy](https://team.inria.fr/tangram/fr/), March 2025, Nancy, France.
+* **Exploring brain function and structure: From sparse coding to multimodal meta-analysis**, presented in [TANGRAM team, Inria Nancy](https://team.inria.fr/tangram/fr/), March 2025, Nancy, France.
 
-* ''Exploring brain function and structure: From sparse coding to multimodal meta-analysis'', presented in [Laboratoire de Physique de l'ENS de Lyon]([https://team.inria.fr/mind/](https://www.ens-lyon.fr/PHYSIQUE)), February 2024, Lyon, France.
+* **Exploring brain function and structure: From sparse coding to multimodal meta-analysis**, presented in [Laboratoire de Physique de l'ENS de Lyon]([https://team.inria.fr/mind/](https://www.ens-lyon.fr/PHYSIQUE)), February 2024, Lyon, France.
 
 * [New Interpretable Patterns and Discriminative Features from Brain Functional Network Connectivity using Dictionary Learning](/files/presentation_fMRI_DL_icassp2023_v2.pdf){:target="_blank" rel="noopener"}, presented in [MIND team](https://team.inria.fr/mind/), September 2023, Inria-Saclay, Paris, France.
 
