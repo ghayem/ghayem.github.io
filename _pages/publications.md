@@ -32,9 +32,12 @@ author_profile: true
 
 ## Preprints
 
-[P1] **F. Ghayem**, Raphaël Meudec, Jérôme Dockès, Bertrand Thirion, Demian Wassermann, **NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation**, submitted to Imaging Neuroscience, July 2025.
+[P2] **F. Ghayem**, Raphaël Meudec, Jérôme Dockès, Bertrand Thirion, Demian Wassermann, **NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation**, submitted to Imaging Neuroscience, July 2025.
 [Paper](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract){:target="_blank" rel="noopener"},
 [Codes](https://github.com/ghayem/NeuroConText){:target="_blank" rel="noopener"}
+
+[P1]  Raphaël Meudec, **F. Ghayem**, Jérôme Dockès, Demian Wassermann, Bertrand Thirion, **Peaks2Image: reconstructing fMRI maps from stereotactic coordinates to enhance cognitive meta-analysis**, submitted to Imaging Neuroscience, August 2025.
+[Paper](https://inria.hal.science/hal-05243856v1){:target="_blank" rel="noopener"}
 
 ## Journal papers
 
