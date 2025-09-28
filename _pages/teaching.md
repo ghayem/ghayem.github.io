@@ -21,28 +21,28 @@ author_profile: true
 
   * 2022, [Telecom Nancy](https://telecomnancy.univ-lorraine.fr/?lang=en){:target="_blank" rel="noopener"} -->
 
-* ## Signals and System, 2015
+* ## Signals and Systems, 2024-2025
 
-  * Responsible: Prof. M. Babaei-Zadeh, Sharif University of Technology
-  * Reference: *Signals & systems*, Alan V. Oppenheim, ‪Alan S. Willsky, second edition, Pearson Educación, 1997
+  * Université de Lorraine, [IDMC](https://idmc.univ-lorraine.fr/){:target="_blank" rel="noopener"}
 
-* ## Digital Signal Proccessing II, 2014
+* ## Signals and Systems, 2015
 
-  * Responsible: Prof. Prof. F. Marvasti, Sharif University of Technology
+  * Sharif University of Technology
 
-* ## Signals and System, 2013
+* ## Digital Signal Processing II, 2014
 
-  * Responsible: Dr. M. Derakhtian, Shiraz University
-  * Reference: *Signals & systems*, Alan V. Oppenheim and ‪Alan S. Willsky, second edition, Pearson Educación, 1997
+  * Sharif University of Technology
+
+* ## Signals and Systems, 2013
+
+  * Shiraz University
 
 * ## Electromagnetics, 2012
 
-  * Responsible: Dr. M. Derakhtian, Shiraz University
-  * Reference: *Fundamentals of Engineering Electromagnetics*, David K. Cheng, first edition, Pearson, 1992
+  * Shiraz University
 
 * ## Electrical Circuit II, 2011
 
-  * Responsible: Prof. M. A. Masnadi-Shirazi, Shiraz University
-  * Reference: *Basic circuit theory*, Charles A. Desoer and Ernest S. Kuh, McGraw-Hill, 1969
+  * Shiraz University
 
 
