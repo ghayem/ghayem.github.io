@@ -21,28 +21,36 @@ author_profile: true
 
   * 2022, [Telecom Nancy](https://telecomnancy.univ-lorraine.fr/?lang=en){:target="_blank" rel="noopener"} -->
 
-* ### Signal Processing, 2024-2025
+
+* ## Qualification
+
+* Qualified to serve as Maître de Conférences, Section 26 – Mathématiques appliquées et applications des mathématiques, 2025
+
+---
+* ## Teachings
+
+* #### Signal Processing, 2024-2025
 
   * Université de Lorraine, [IDMC](https://idmc.univ-lorraine.fr/){:target="_blank" rel="noopener"}
 
-* ### Signals and Systems, 2015
+* #### Signals and Systems, 2015
 
-  * Sharif University of Technology
+  * EE department, Sharif University of Technology
 
-* ### Digital Signal Processing II, 2014
+* #### Digital Signal Processing II, 2014
 
-  * Sharif University of Technology
+  * EE department, Sharif University of Technology
 
-* ### Signals and Systems, 2013
+* #### Signals and Systems, 2013
 
-  * Shiraz University
+  * EE department, Shiraz University
 
-* ### Electromagnetics, 2012
+* #### Electromagnetics, 2012
 
-  * Shiraz University
+  * EE department, Shiraz University
 
-* ### Electrical Circuit II, 2011
+* #### Electrical Circuit II, 2011
 
-  * Shiraz University
+  * EE department, Shiraz University
 
 
