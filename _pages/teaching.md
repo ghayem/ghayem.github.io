@@ -24,7 +24,7 @@ author_profile: true
 
 
 
-I am Qualified to serve as Maître de Conférences, Section 26 – Mathématiques appliquées et applications des mathématiques, 2025
+I am Qualified to serve as Maître de Conférences, Section 26 – Mathématiques appliquées et applications des mathématiques.
 
 ---
 
