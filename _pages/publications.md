@@ -30,6 +30,12 @@ author_profile: true
 
 [P3] **F. Ghayem**, H. Yang, F. Kantar, S-J. Kim, V. D. Calhoun, T. Adali, **Dynamic Brain Network Analysis: Interpretable and Discriminative Patterns via Dictionary Learning**, to be submitted to Sensors, March 2024. -->
 
+## Preprints
+
+[P1] **F. Ghayem**, Raphaël Meudec, Jérôme Dockès, Bertrand Thirion, Demian Wassermann, **NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation**, submitted to Imaging Neuroscience, July 2025.
+[Paper](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract){:target="_blank" rel="noopener"},
+[Codes](https://github.com/ghayem/NeuroConText){:target="_blank" rel="noopener"}
+
 ## Journal papers
 
 [J2] **F. Ghayem**, B. Rivet, Ch. Jutten, R. Cabral Farias, **Robust sensor placement for signal extraction**, IEEE Trans. Signal Processing, vol. 24, no. 1, pp. 32-36, January 2021.
