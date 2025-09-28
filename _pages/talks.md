@@ -31,3 +31,10 @@ author_profile: true
 * [Optimal Sensor Placement for Source Extraction](/files/Presentation_PhDdefence_Oct2020.pdf){:target="_blank" rel="noopener"}, presented in [Diagnostic and Interventional Adaptive Imaging (IADI)](https://iadi.univ-lorraine.fr/en/home/), January 2023, Nancy, France.
 
 * [Optimal Sensor Placement for Source Extraction](/files/Presentation_PhDdefence_Oct2020.pdf){:target="_blank" rel="noopener"}, presented in Centre de Recherche en Automatique de Nancy (CRAN), Department of Biology, Signals & Systems, January 2021, Nancy, France.
+
+
+---
+
+### Posters
+
+* **NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature**, presented at [Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229), 2025, Brisbane, Australia.
