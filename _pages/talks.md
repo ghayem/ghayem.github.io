@@ -18,16 +18,16 @@ author_profile: true
 * For a brief tutorial on gradient backpropagation through a long short-term memory (LSTM) cell, see [this](/files/lstm.pdf){:target="_blank" rel="noopener"}.
 * A simple [demo](/files/Sparse Demo.zip){:target="_blank" rel="noopener"} of *Sparse Land*, including, various sparse signal recovery (compressed sensing) algorithms, demonstration of simple dimensionality reduction schemes based on *Discrete Cosine Transform (DCT)* and *Principal Component Analysis (PCA)*, and so on. -->
 
-* [September 2025] A talk on ``NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation'', presented in [The British Council in Paris](https://www.britishcouncil.fr/), Paris, France.
+* ''NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation'', presented in [The British Council in Paris](https://www.britishcouncil.fr/), September 2025, Paris, France.
 
-* [March 2025] A talk on ``Exploring brain function and structure: From sparse coding to multimodal meta-analysis'', presented in [TANGRAM team, Inria Nancy](https://team.inria.fr/tangram/fr/), Nancy, France.
+* ''Exploring brain function and structure: From sparse coding to multimodal meta-analysis'', presented in [TANGRAM team, Inria Nancy](https://team.inria.fr/tangram/fr/), March 2025, Nancy, France.
 
-* [February 2024] A talk on ``Exploring brain function and structure: From sparse coding to multimodal meta-analysis'', presented in [Laboratoire de Physique de l'ENS de Lyon]([https://team.inria.fr/mind/](https://www.ens-lyon.fr/PHYSIQUE)), Lyon, France.
+* ''Exploring brain function and structure: From sparse coding to multimodal meta-analysis'', presented in [Laboratoire de Physique de l'ENS de Lyon]([https://team.inria.fr/mind/](https://www.ens-lyon.fr/PHYSIQUE)), February 2024, Lyon, France.
 
-* [September 2023] A talk on [New Interpretable Patterns and Discriminative Features from Brain Functional Network Connectivity using Dictionary Learning](/files/presentation_fMRI_DL_icassp2023_v2.pdf){:target="_blank" rel="noopener"}, presented in [MIND team](https://team.inria.fr/mind/), Inria-Saclay, Paris, France.
+* [New Interpretable Patterns and Discriminative Features from Brain Functional Network Connectivity using Dictionary Learning](/files/presentation_fMRI_DL_icassp2023_v2.pdf){:target="_blank" rel="noopener"}, presented in [MIND team](https://team.inria.fr/mind/), September 2023, Inria-Saclay, Paris, France.
 
-* [June 2023] A talk on [Optimal Sensor Placement for Source Extraction](/files/Presentation_PhDdefence_Oct2020.pdf){:target="_blank" rel="noopener"}, presented in [MIND team](https://team.inria.fr/mind/), Inria-Saclay, Paris, France.
+* [Optimal Sensor Placement for Source Extraction](/files/Presentation_PhDdefence_Oct2020.pdf){:target="_blank" rel="noopener"}, presented in [MIND team](https://team.inria.fr/mind/), June 2023, Inria-Saclay, Paris, France.
 
-* [January 2023] A talk on [Optimal Sensor Placement for Source Extraction](/files/Presentation_PhDdefence_Oct2020.pdf){:target="_blank" rel="noopener"}, presented in [Diagnostic and Interventional Adaptive Imaging (IADI)](https://iadi.univ-lorraine.fr/en/home/), Nancy, France.
+* [Optimal Sensor Placement for Source Extraction](/files/Presentation_PhDdefence_Oct2020.pdf){:target="_blank" rel="noopener"}, presented in [Diagnostic and Interventional Adaptive Imaging (IADI)](https://iadi.univ-lorraine.fr/en/home/), January 2023, Nancy, France.
 
-* [January 2021] A talk on [Optimal Sensor Placement for Source Extraction](/files/Presentation_PhDdefence_Oct2020.pdf){:target="_blank" rel="noopener"}, presented in Centre de Recherche en Automatique de Nancy (CRAN), Department of Biology, Signals & Systems.
+* [Optimal Sensor Placement for Source Extraction](/files/Presentation_PhDdefence_Oct2020.pdf){:target="_blank" rel="noopener"}, presented in Centre de Recherche en Automatique de Nancy (CRAN), Department of Biology, Signals & Systems, January 2021, Nancy, France.
