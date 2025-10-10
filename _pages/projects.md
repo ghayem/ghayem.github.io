@@ -12,9 +12,10 @@ A selection of my recent and past projects.
 
 ## 🧠 NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation
 
-<img width="200" height="1070" alt="NeuroConText_framework_training" src="https://github.com/user-attachments/assets/0c8ff2b2-0650-4778-bf58-762c290a2bc8" />
+<img width="300" height="1070" alt="NeuroConText_framework_training" src="https://github.com/user-attachments/assets/0c8ff2b2-0650-4778-bf58-762c290a2bc8" />
 
-<img width="200" height="941" alt="NeuroConText_framework_inference" src="https://github.com/user-attachments/assets/a1cd36c0-ebae-4381-8e2e-fc96328bf999" />
+<img width="300" height="941" alt="NeuroConText_framework_inference" src="https://github.com/user-attachments/assets/a1cd36c0-ebae-4381-8e2e-fc96328bf999" />
+
 
 <img width="200" height="722" alt="retrieval_leftOutArticles" src="https://github.com/user-attachments/assets/b7aa343c-1f2f-4f7e-a689-da38e1d44c4c" />
 
