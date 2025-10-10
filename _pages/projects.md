@@ -12,15 +12,15 @@ A selection of my recent and past projects.
 
 ## 🧠 NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation
 
-<img width="700" height="1070" alt="NeuroConText_framework_training" src="https://github.com/user-attachments/assets/0c8ff2b2-0650-4778-bf58-762c290a2bc8" />
+<img width="200" height="1070" alt="NeuroConText_framework_training" src="https://github.com/user-attachments/assets/0c8ff2b2-0650-4778-bf58-762c290a2bc8" />
 
-<img width="700" height="941" alt="NeuroConText_framework_inference" src="https://github.com/user-attachments/assets/a1cd36c0-ebae-4381-8e2e-fc96328bf999" />
+<img width="200" height="941" alt="NeuroConText_framework_inference" src="https://github.com/user-attachments/assets/a1cd36c0-ebae-4381-8e2e-fc96328bf999" />
 
-<img width="700" height="722" alt="retrieval_leftOutArticles" src="https://github.com/user-attachments/assets/b7aa343c-1f2f-4f7e-a689-da38e1d44c4c" />
+<img width="200" height="722" alt="retrieval_leftOutArticles" src="https://github.com/user-attachments/assets/b7aa343c-1f2f-4f7e-a689-da38e1d44c4c" />
 
-<img width="700" height="716" alt="DiceScore_articles_test_" src="https://github.com/user-attachments/assets/b716de4d-966c-427b-8b7b-e85512c65b79" />
+<img width="200" height="716" alt="DiceScore_articles_test_" src="https://github.com/user-attachments/assets/b716de4d-966c-427b-8b7b-e85512c65b79" />
 
-<img width="700" height="1056" alt="brain_maps_reconstruction_dice_leftOutArticles_best_median_worst" src="https://github.com/user-attachments/assets/5ee2ca2f-12ea-4fd9-a6c8-00ab1a6535ab" />
+<img width="200" height="1056" alt="brain_maps_reconstruction_dice_leftOutArticles_best_median_worst" src="https://github.com/user-attachments/assets/5ee2ca2f-12ea-4fd9-a6c8-00ab1a6535ab" />
 
 **Objective:**  
 Meta‑analysis aggregates thousands of neuroimaging studies to extract reproducible activation patterns associated with concepts like attention, language, or emotion. However, existing tools rely on manually curated keywords or sparse coordinate tables, missing the rich information in full texts. As the literature grows, scalable methods that link full text to brain data are essential.
