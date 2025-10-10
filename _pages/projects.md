@@ -12,6 +12,16 @@ A selection of my recent and past projects.
 
 ## 🧠 NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation
 
+[NeuroConText_framework_training.pdf](https://github.com/user-attachments/files/22848778/NeuroConText_framework_training.pdf)
+
+[NeuroConText_framework_inference.pdf](https://github.com/user-attachments/files/22848783/NeuroConText_framework_inference.pdf)
+
+[retrieval_leftOutArticles.pdf](https://github.com/user-attachments/files/22848784/retrieval_leftOutArticles.pdf)
+
+[DiceScore_articles_test_.pdf](https://github.com/user-attachments/files/22848785/DiceScore_articles_test_.pdf)
+
+[brain_maps_reconstruction_dice_leftOutArticles_best_median_worst.pdf](https://github.com/user-attachments/files/22848789/brain_maps_reconstruction_dice_leftOutArticles_best_median_worst.pdf)
+
 **Objective:**  
 Meta‑analysis aggregates thousands of neuroimaging studies to extract reproducible activation patterns associated with concepts like attention, language, or emotion. However, existing tools rely on manually curated keywords or sparse coordinate tables, missing the rich information in full texts. As the literature grows, scalable methods that link full text to brain data are essential.
 
