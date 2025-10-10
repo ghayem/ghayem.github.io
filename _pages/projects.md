@@ -48,8 +48,10 @@ We introduce **NeuroConText**, a contrastive learning framework that aligns full
 - 🔍 Uses dual loss with convergence guarantee: contrastive learning to improve retrieval and MSE to support reconstruction
 - ✍️ Supports generalization with short-text input via LLM-based augmentation
 
-**Paper:**  
-[Peaks2Image bioRxiv](https://inria.hal.science/hal-05243856)
+**Papers:**  
+[NeuroConText - Journal version - bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract)
+[NeuroConText - Conference version - MICCAI'24](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_31)
+
 ---
 
 ## 🧠 Peaks2Image: Reconstructing fMRI Statistical Maps from Reported Peak Coordinates
@@ -70,8 +72,8 @@ We developed **Peaks2Image**, a neural model that:
 - 🔤 Enables zero-shot concept decoding: 58 of 81 cognitive terms successfully decoded
 - 🔄 Bridges coordinate-only articles to text/image-based analysis pipelines
 
-**Papers:**  
-[NeuroConText - Journal version - bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract)
-[NeuroConText - Conference version - MICCAI'24](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_31)
+
+**Paper:**  
+[Peaks2Image](https://inria.hal.science/hal-05243856)
 
 ---
