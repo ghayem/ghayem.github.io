@@ -14,9 +14,9 @@ A selection of my recent and past projects.
 
 
 <p align="center">
-  <img width="500" height="1070" alt="NeuroConText_framework_training" src="https://github.com/user-attachments/assets/0c8ff2b2-0650-4778-bf58-762c290a2bc8" />
+  <img width="400" height="1070" alt="NeuroConText_framework_training" src="https://github.com/user-attachments/assets/0c8ff2b2-0650-4778-bf58-762c290a2bc8" />
   
-  <img width="500" height="941" alt="NeuroConText_framework_inference" src="https://github.com/user-attachments/assets/a1cd36c0-ebae-4381-8e2e-fc96328bf999" />
+  <img width="400" height="941" alt="NeuroConText_framework_inference" src="https://github.com/user-attachments/assets/a1cd36c0-ebae-4381-8e2e-fc96328bf999" />
 
 </p>
 
