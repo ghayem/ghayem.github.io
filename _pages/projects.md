@@ -38,7 +38,7 @@ We introduce **NeuroConText**, a contrastive learning framework that aligns full
 - 📈 Improves Recall@10 in retrieval: 22.6% vs 7% (NeuroQuery) and 1.4% (Text2Brain)
 - 📚 Handles long-form text through chunking and pooling
 - 🧩 Matches or outperforms baselines in Dice reconstruction scores
-- 🔍 Uses contrastive learning to bridge semantic gaps
+- 🔍 Uses contrastive learning to improve retrieval and uses LLM to capture semantic
 - ✍️ Supports generalization with short-text input via LLM-based augmentation
 
 **Paper:**  
