@@ -12,6 +12,7 @@ A selection of my recent and past projects.
 
 ## 🧠 NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation
 
+
 <p align="center">
   <img width="500" height="1070" alt="NeuroConText_framework_training" src="https://github.com/user-attachments/assets/0c8ff2b2-0650-4778-bf58-762c290a2bc8" />
   
@@ -48,8 +49,7 @@ We introduce **NeuroConText**, a contrastive learning framework that aligns full
 - ✍️ Supports generalization with short-text input via LLM-based augmentation
 
 **Paper:**  
-[NeuroConText]([https://inria.hal.science/hal-05243856](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract))
-
+[Peaks2Image bioRxiv](https://inria.hal.science/hal-05243856)
 ---
 
 ## 🧠 Peaks2Image: Reconstructing fMRI Statistical Maps from Reported Peak Coordinates
@@ -70,7 +70,8 @@ We developed **Peaks2Image**, a neural model that:
 - 🔤 Enables zero-shot concept decoding: 58 of 81 cognitive terms successfully decoded
 - 🔄 Bridges coordinate-only articles to text/image-based analysis pipelines
 
-**Paper:**  
-[Peaks2Image](https://inria.hal.science/hal-05243856)
+**Papers:**  
+[NeuroConText - Journal version - bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract)
+[NeuroConText - Conference version - MICCAI'24](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_31)
 
 ---
