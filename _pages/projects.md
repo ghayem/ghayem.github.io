@@ -87,7 +87,7 @@ We developed **Peaks2Image**, a neural model that:
 </p>
 
 <p align="center">
-<img width="1993" height="881" alt="MIND_talk_Jun4_2024-compressed" src="https://github.com/user-attachments/assets/c69068df-6ce1-4027-a3fd-082819f360da" />
+<img width="500" height="881" alt="MIND_talk_Jun4_2024-compressed" src="https://github.com/user-attachments/assets/c69068df-6ce1-4027-a3fd-082819f360da" />
 </p>
 
 **Objective:**  
