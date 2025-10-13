@@ -80,3 +80,33 @@ We developed **Peaks2Image**, a neural model that:
 [Peaks2Image](https://inria.hal.science/hal-05243856)
 
 ---
+
+## 🧠 Sparse Dictionary Learning for Discriminative and Interpretable Brain Connectivity Patterns  
+**(UMBC / TReNDS)**
+
+**Objective:**  
+Group-level analysis of resting-state fMRI can extract valuable biomarkers, but traditional pipelines either lack interpretability or fail to model population heterogeneity. Standard ICA + temporal functional network connectivity (tFNC) approaches yield high-dimensional features that are hard to interpret. In this project aimed to extract sparse, low-dimensional, and interpretable features that preserve discriminative information for classifying schizophrenia (Sz) versus healthy controls (HC).
+
+**What we proposed:**  
+We introduced a novel framework combining group ICA and dictionary learning:
+
+- Group-ICA with entropy-bound minimization (ICA-EBM) is applied to multi-subject resting-state fMRI to extract subject-specific brain networks and time courses.
+- tFNC matrices (Pearson correlations between time courses) are computed per subject, vectorized, and used as high-dimensional connectivity features.
+- A dictionary learning model jointly learns:
+  - Sparse representations of each subject’s tFNC feature vector.
+  - A linear classifier for discrimination between HC and Sz.
+- Each learned **dictionary atom** is reshaped into a symmetric matrix, interpretable as a distinct connectivity pattern between brain networks.
+- **Two-sample t-tests** are used on the sparse coefficients to identify statistically significant, group-discriminative patterns.
+
+**Advantages over prior models:**
+
+- 🧠 **Interpretable features**: Each dictionary atom corresponds to a meaningful, visualizable brain connectivity pattern.
+- 📉 **Dimensionality reduction**: Sparse representations are compact and informative, improving classifier robustness.
+- 📊 **Improved classification** based on Accuracy and F1-score.
+- 🧪 **Statistical validation**: Multiple atoms show significant between-group differences (HC vs. Sz) via t-tests, suggesting interpretable biomarkers.
+- 🔍 **Visualization-ready**: Atoms can be reshaped and visualized as symmetric matrices, analogous to tFNCs.
+
+**Paper:**  
+[📄 ICASSP 2023](https://ieeexplore.ieee.org/abstract/document/10096473)
+
+---
