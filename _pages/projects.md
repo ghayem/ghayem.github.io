@@ -56,6 +56,9 @@ We introduce **NeuroConText**, a contrastive learning framework that aligns full
 
 ## 🧠 Peaks2Image: Reconstructing fMRI Statistical Maps from Reported Peak Coordinates
 
+<img width="400" height="1708" alt="Peaks2Image" src="https://github.com/user-attachments/assets/df4ddf8f-94ba-43a9-abb4-d2671ad974e6" />
+
+
 **Objective:**  
 Neuroscience articles often report peak activation coordinates instead of full statistical maps, limiting spatial modeling. Recovering full maps from peak sets allows leveraging legacy data for modern meta-analytic pipelines.
 
