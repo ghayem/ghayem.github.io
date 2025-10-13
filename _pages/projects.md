@@ -82,7 +82,10 @@ We developed **Peaks2Image**, a neural model that:
 ---
 
 ## 🧠 Sparse Dictionary Learning for Discriminative and Interpretable Brain Connectivity Patterns  
-**(UMBC / TReNDS)**
+
+<img width="500" height="612" alt="interpret_discriminate" src="https://github.com/user-attachments/assets/515b4341-3877-4c5a-a6a3-e209f7f52b2e" />
+
+<img width="500" height="612" alt="interpret_discriminate" src="https://github.com/user-attachments/assets/02ca55d9-789a-4e2a-b364-2572e9ba1c8e" />
 
 **Objective:**  
 Group-level analysis of resting-state fMRI can extract valuable biomarkers, but traditional pipelines either lack interpretability or fail to model population heterogeneity. Standard ICA + temporal functional network connectivity (tFNC) approaches yield high-dimensional features that are hard to interpret. In this project aimed to extract sparse, low-dimensional, and interpretable features that preserve discriminative information for classifying schizophrenia (Sz) versus healthy controls (HC).
