@@ -36,7 +36,7 @@ Meta‑analysis aggregates thousands of neuroimaging studies to extract reproduc
 We introduce **NeuroConText**, a contrastive learning framework that aligns full-text articles with activation maps derived from coordinate‑based meta‑analysis (CBMA):
 
 - Articles are split into text chunks and processed with transformer-based encoders (e.g., Mistral 7B) to extract rich contextual representations.
-- Activation coordinates are used to reconstruct 3D brain maps via KDE, then projected into a low-dimensional space using DiFuMo atlas embeddings.
+- Activation coordinates are used to reconstruct 3D brain maps via kernel density estimation (KDE), then projected into a low-dimensional space using DiFuMo atlas embeddings.
 - A joint loss function is used: MSE for text-to-map reconstruction and contrastive loss to align matching text–map pairs.
 - Supports retrieval and prediction tasks, including text→map inference.
 
@@ -62,7 +62,7 @@ Neuroscience articles often report peak activation coordinates instead of full s
 **What we proposed:**  
 We developed **Peaks2Image**, a neural model that:
 
-- Converts sets of peak coordinates into smoothed KDE maps
+- Converts sets of peak coordinates into smoothed kernel density estimation (KDE) maps
 - Projects them into DiFuMo space and uses an MLP to reconstruct full 3D images
 - Supports semantic decoding (e.g., predicting cognitive concepts) directly from reconstructed maps
 
