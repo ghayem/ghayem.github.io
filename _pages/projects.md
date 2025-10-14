@@ -10,7 +10,7 @@ A selection of my recent and past projects.
 
 ---
 
-## 🧠 NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation
+## NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation
 
 
 <p align="center">
@@ -54,7 +54,7 @@ We introduce **NeuroConText**, a contrastive learning framework that aligns full
 
 ---
 
-## 🧠 Peaks2Image: Reconstructing fMRI Statistical Maps from Reported Peak Coordinates
+## Peaks2Image: Reconstructing fMRI Statistical Maps from Reported Peak Coordinates
 
 <img width="600" height="1708" alt="Peaks2Image" src="https://github.com/user-attachments/assets/df4ddf8f-94ba-43a9-abb4-d2671ad974e6" />
 
@@ -81,12 +81,10 @@ We developed **Peaks2Image**, a neural model that:
 
 ---
 
-## 🧠 Sparse Dictionary Learning for Discriminative and Interpretable Brain Connectivity Patterns  
+## Sparse Dictionary Learning for Discriminative and Interpretable Brain Connectivity Patterns  
 <p align="center">
 <img width="500" height="612" alt="interpret_discriminate" src="https://github.com/user-attachments/assets/515b4341-3877-4c5a-a6a3-e209f7f52b2e" />
-</p>
 
-<p align="center">
 <img width="500" height="881" alt="MIND_talk_Jun4_2024-compressed" src="https://github.com/user-attachments/assets/c69068df-6ce1-4027-a3fd-082819f360da" />
 </p>
 
