@@ -18,6 +18,8 @@ author_profile: true
 * For a brief tutorial on gradient backpropagation through a long short-term memory (LSTM) cell, see [this](/files/lstm.pdf){:target="_blank" rel="noopener"}.
 * A simple [demo](/files/Sparse Demo.zip){:target="_blank" rel="noopener"} of *Sparse Land*, including, various sparse signal recovery (compressed sensing) algorithms, demonstration of simple dimensionality reduction schemes based on *Discrete Cosine Transform (DCT)* and *Principal Component Analysis (PCA)*, and so on. -->
 
+* **Multiview Learning of the Brain: Functional Connectivity, Subgroup Discovery, and Text-to-Brain Mapping**, presented in [IMoPA, ERCN team, CHRU de Nancy](https://imopa.univ-lorraine.fr/equipe-ercn/), February 2026, Nancy, France.
+
 * **NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation**, presented in [The British Council in Paris](https://www.britishcouncil.fr/), September 2025, Paris, France.
 
 * **Exploring brain function and structure: From sparse coding to multimodal meta-analysis**, presented in [TANGRAM team, Inria Nancy](https://team.inria.fr/tangram/fr/), March 2025, Nancy, France.
