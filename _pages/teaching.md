@@ -30,7 +30,7 @@ I am Qualified to serve as Maître de Conférences, Section 26 – Mathématique
 
 # Courses
 
-### Computer vision and image processing, 2026
+### Computer Vision and Image Processing, 2026
 
   * Université de Lorraine, [Polytech Nancy](https://polytech-nancy.univ-lorraine.fr/){:target="_blank" rel="noopener"}
 
