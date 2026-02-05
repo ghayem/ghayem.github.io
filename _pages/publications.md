@@ -32,14 +32,14 @@ author_profile: true
 
 ## Preprints
 
-[P2] **F. Ghayem**, Raphaël Meudec, Jérôme Dockès, Bertrand Thirion, Demian Wassermann, **NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation**, submitted to Imaging Neuroscience, July 2025.
-[Paper](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract){:target="_blank" rel="noopener"},
-[Codes](https://github.com/ghayem/NeuroConText){:target="_blank" rel="noopener"}
-
 [P1]  Raphaël Meudec, Jérôme Dockès, **F. Ghayem**, Demian Wassermann, Bertrand Thirion, **Peaks2Image: reconstructing fMRI maps from stereotactic coordinates to enhance cognitive meta-analysis**, submitted to Imaging Neuroscience, August 2025.
 [Paper](https://inria.hal.science/hal-05243856v1){:target="_blank" rel="noopener"}
 
 ## Journal papers
+
+[J3] **F. Ghayem**, Raphaël Meudec, Jérôme Dockès, Bertrand Thirion, Demian Wassermann, **NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation**, accepted at Imaging Neuroscience, February 2026.
+[Paper](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract){:target="_blank" rel="noopener"},
+[Codes](https://github.com/ghayem/NeuroConText){:target="_blank" rel="noopener"}
 
 [J2] **F. Ghayem**, B. Rivet, Ch. Jutten, R. Cabral Farias, **Robust sensor placement for signal extraction**, IEEE Trans. Signal Processing, vol. 24, no. 1, pp. 32-36, January 2021.
 [Paper](https://ghayem.github.io/files/RSP_TSP_2021.pdf){:target="_blank" rel="noopener"},
