@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-<!-- ## Preprints -->
+<!-- ## Manuscripts under review -->
 
 <!-- [P4] Z. Kang, M. Sadeghi, R. Horaud, J. Donley, A. Kumar, and X. Alameda-Pineda, **Expression-preserving face frontalization improves visually assisted speech processing**, April 2022.
 
