@@ -23,10 +23,10 @@ I obtained my Ph.D. in biomedical engineering from the [GIPSA-lab](https://www.g
 
 I am passionate about playing the violin and exploring the philosophy of Friedrich Nietzsche, especially his work *Thus Spoke Zarathustra*. I also have a deep appreciation for beauty in all its forms, particularly in art and nature.
 
-## Research Interests
-* Aneurysm detection with deep learning  
+## Research Interests 
 * Brain meta-analysis with large language models (LLM)  
-* Independent component/vector analysis (ICA/IVA) for multi-subject fMRI study  
+* Independent component/vector analysis (ICA/IVA) for multi-subject fMRI study
+* Aneurysm detection with deep learning 
 * Optimal sensor placement for source extraction  
 * Machine learning and statistical signal processing in medical applications  
 * Bayesian modeling, numerical optimization, and dictionary learning  
