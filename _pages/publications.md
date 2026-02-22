@@ -38,7 +38,7 @@ author_profile: true
 ## Journal papers
 
 [J3] **F. Ghayem**, Raphaël Meudec, Jérôme Dockès, Bertrand Thirion, Demian Wassermann, **NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation**, accepted at Imaging Neuroscience, February 2026.
-[Paper](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract){:target="_blank" rel="noopener"},
+[Paper](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1162/135353/NeuroConText-Contrastive-Learning-for-Neuroscience){:target="_blank" rel="noopener"},
 [Codes](https://github.com/ghayem/NeuroConText){:target="_blank" rel="noopener"}
 
 [J2] **F. Ghayem**, B. Rivet, Ch. Jutten, R. Cabral Farias, **Robust sensor placement for signal extraction**, IEEE Trans. Signal Processing, vol. 24, no. 1, pp. 32-36, January 2021.
