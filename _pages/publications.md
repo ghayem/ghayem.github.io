@@ -55,7 +55,7 @@ author_profile: true
 [C9] **R. Meudec<sup>*</sup>**, **F. Ghayem<sup>*</sup>**, J. Dockès, D. Wassermann, B. Thirion, **NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature**, *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, October 2024. [Paper](https://hal.science/hal-04708173v1/file/MICCAI_2024_CameraReady.pdf){:target="_blank" rel="noopener"}, [Codes](https://github.com/ghayem/NeuroConText){:target="_blank" rel="noopener"}
 
 [C8] **F. Ghayem**, H. Yang, F. Kantar, S-J. Kim, V. D. Calhoun, T. Adali, **New Interpretable Patterns and Discriminative Features from Brain Functional Network Connectivity Using Dictionary Learning**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), June 2023.
-[Paper](https://ghayem.github.io/files/fMRI_DL.pdf){:target="_blank" rel="noopener"}
+[Paper](https://ghayem.github.io/files/DL_fMRI_static_ICASSP23.pdf){:target="_blank" rel="noopener"}
 [Slides](https://ghayem.github.io/files/fMRI_DL_slides.pdf){:target="_blank" rel="noopener"}
 
 [C7] H. Yang, **F. Ghayem**, B. Gabrielson, M. A. B. S. Akhonda, V. D. Calhoun, T. Adali, **Constrained independent component analysis based on entropy bound minimization for subgroup identification from multisubject fMRI data**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), June 2023.
