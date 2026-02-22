@@ -50,9 +50,9 @@ author_profile: true
 [Codes](https://github.com/ghayem/IPP){:target="_blank" rel="noopener"}
 
 
-## Conference papers ((*) Equal contribution)
+## Conference papers (^^ Equal contribution)
 
-[C9] **R. Meudec** (*), **F. Ghayem** (*), J. Dockès, D. Wassermann, B. Thirion, **NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature**, *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, October 2024. [Paper](https://hal.science/hal-04708173v1/file/MICCAI_2024_CameraReady.pdf){:target="_blank" rel="noopener"}, [Codes](https://github.com/ghayem/NeuroConText){:target="_blank" rel="noopener"}
+[C9] **R. Meudec^^**, **F. Ghayem^^**, J. Dockès, D. Wassermann, B. Thirion, **NeuroConText: Contrastive Text-to-Brain Mapping for Neuroscientific Literature**, *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, October 2024. [Paper](https://hal.science/hal-04708173v1/file/MICCAI_2024_CameraReady.pdf){:target="_blank" rel="noopener"}, [Codes](https://github.com/ghayem/NeuroConText){:target="_blank" rel="noopener"}
 
 [C8] **F. Ghayem**, H. Yang, F. Kantar, S-J. Kim, V. D. Calhoun, T. Adali, **New Interpretable Patterns and Discriminative Features from Brain Functional Network Connectivity Using Dictionary Learning**, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), June 2023.
 [Paper](https://ghayem.github.io/files/DL_fMRI_static_ICASSP23.pdf){:target="_blank" rel="noopener"}
