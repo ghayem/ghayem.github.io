@@ -49,7 +49,7 @@ We introduce **NeuroConText**, a contrastive learning framework that aligns full
 - ✍️ Supports generalization with short-text input via LLM-based augmentation
 
 **Papers:**  
-1. [NeuroConText - Journal version - bioRxiv](https://www.biorxiv.org/content/10.1101/2025.05.23.655707v1.abstract)
+1. [NeuroConText - Journal version - Imaging Neuroscience](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1162/135353/NeuroConText-Contrastive-Learning-for-Neuroscience)
 2. [NeuroConText - Conference version - MICCAI'24](https://link.springer.com/chapter/10.1007/978-3-031-72384-1_31)
 
 ---
