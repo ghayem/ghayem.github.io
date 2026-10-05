@@ -30,14 +30,10 @@ author_profile: true
 
 [P3] **F. Ghayem**, H. Yang, F. Kantar, S-J. Kim, V. D. Calhoun, T. Adali, **Dynamic Brain Network Analysis: Interpretable and Discriminative Patterns via Dictionary Learning**, to be submitted to Sensors, March 2024. -->
 
-## Preprints
-
-
-
 ## Journal papers
 
 [J4]  Raphaël Meudec, Jérôme Dockès, **F. Ghayem**, Demian Wassermann, Bertrand Thirion, **Peaks2Image: reconstructing fMRI maps from stereotactic coordinates to enhance cognitive meta-analysis**, accepted at Imaging Neuroscience, July 2026.
-[Paper](https://inria.hal.science/hal-05243856v1){:target="_blank" rel="noopener"}
+[Paper](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1367/138559/Peaks2Image-Reconstructing-fMRI-maps-from){:target="_blank" rel="noopener"}
 
 [J3] **F. Ghayem**, Raphaël Meudec, Jérôme Dockès, Bertrand Thirion, Demian Wassermann, **NeuroConText: Contrastive Learning for Neuroscience Meta-Analysis with Rich Text Representation**, accepted at Imaging Neuroscience, February 2026.
 [Paper](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1162/135353/NeuroConText-Contrastive-Learning-for-Neuroscience){:target="_blank" rel="noopener"},
